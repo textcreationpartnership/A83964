@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands glory in her royall King, and honorable assembly in the high court of Parliament, above her former usurped lordly bishops synod. VVith a discourse betwixt Master Iohn Calvin, and a prelaticall bishop, whereunto is added the Bishop of Canterburies dreame.</title>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83964</idno><idno type="EEBO-CITATION">99867816_156891</idno>
+  <idno type="VID">156891</idno>
+  <idno type="EEBO-PROQUEST">2248502748</idno>
+  
+            <idno type="STC">Wing E2969</idno>
+            <idno type="STC">Thomason E157_9</idno>
+            <idno type="STC">Thomason E157_10</idno>
+            <idno type="STC">ESTC R19901</idno>
+            <idno type="STC">ESTC R20890</idno>
+            <idno type="PROQUEST">99867816</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867816e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83964)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156891)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E157[9], 28:E157[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands glory in her royall King, and honorable assembly in the high court of Parliament, above her former usurped lordly bishops synod. VVith a discourse betwixt Master Iohn Calvin, and a prelaticall bishop, whereunto is added the Bishop of Canterburies dreame.</title>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the Yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]¹ (=D2?) B⁴ [C]⁴ D²  (-D2; = [A]1?). C2 signed A2.</note>
+                  <note>Quire C, containing "The contrariety betweene Christs Apostles and lordly prelates" (caption title), is unsigned except for C2, signed "A2". Variant: A1 signed C.</note>
+                  <note>The last leaf, "The report of the Bishop of Canterburies dreame ..", and quire B are filmed separately in that order on UMI microfilm reel 253:E.157:10.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Calvin, Jean, 1509-1564.</term>
+               <term type="personal_name">Laud, William, 1573-1645.</term>
+               <term type="corporate_name">Church of England --  Controversial literature --  Puritan authors --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb facs="tcp:156891:1"/>
+            <pb facs="tcp:156891:1"/>
+            <head>THE REPORT Of the Bishop of <hi>Canterburies</hi> Dreame, for an advertisement to all proud Lordly, persecuting, unpreaching, oppressing, tyrannizing Prelates, who suppresse the Preaching and progresse of the Gospell.</head>
+            <p>IT is reported of his Arch-grace of <hi>Canterbury,</hi> that when he was a poore Scholler in <hi>Oxford,</hi> hee dreamed, that he should be a Bishop, then Arch-Bishop of <hi>Canterbury,</hi> and a great persecuter of Gods Ministers and people, (which we see all verified) and that at last he sunke downe into Hell, whereupon he awaked, and then and since, oft related this dreame; enough to have terrified and awaked his <hi>Lordship,</hi> if true. Oh that a man had but a view of <hi>Hell (saith Father Latimer in his Ser<g ref="char:EOLhyphen"/>mons)</hi> he should see on one side of it, a row of unpreaching <hi>Prelates</hi> in their square Caps, I warrant you as farre, as betweene this and <hi>Dover.</hi> And no marvell since they have so hated, dispised, and blasphemed both the word of God, the true Preachers and lovers thereof, driving away, and silencing Gods faithfull Ministers, and setting up in their roomes and places, <hi>Doct. Ignorance, Domine Drunkard, Sir William Wild-oates</hi> that hunteth after Whores, and such also as can play dissembling Hypocrites, whereby the De<g ref="char:EOLhyphen"/>vils empire of darknesse exceedingly flourisheth: lest faithfull Preaching should roote it out. But the <hi>Churches</hi> hope is, that God in his good time, will now in this happie <hi>Parliament-time,</hi> heare the prayers of the people of this <hi>Land</hi> everywhere put up: That the <hi>Seas</hi> of those <hi>Lordly Prelates, Pope-successors, Tyrants, Per<g ref="char:EOLhyphen"/>secuters</hi> of Christ, &amp;c. shall bee, <hi>Nidos corum ubique de<g ref="char:EOLhyphen"/>struendos;</hi> or else put to some better uses.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="document">
+            <pb facs="tcp:156891:2"/>
+            <pb facs="tcp:156891:2"/>
+            <head>ENGLANDS GLORY IN HER ROYALL King and Honourable Assembly in the high Court of Parliament, above her former Lordly Bishops Courts.</head>
+            <p>
+               <hi>This will cause Princes to be blessed, if they make their power (in which they are as servants unto Gods Majesty) to inlarge his worship, service and Religion, if they doe all things not for vaine glory, but for charity, and with all, and before all, give God the due sacrifice of prayer, saith Saint</hi> Austin <hi>in his</hi> 5. <hi>book and</hi> 24. <hi>chap. de Civitate Dei.</hi>
+            </p>
+            <p>The high and Honourable Assembly of Parliament are a a more holy Assembly then our Lordly Bishops and Prelates were in their Courts.</p>
+            <div type="argument">
+               <head>The Argument.</head>
+               <p>WHere the Name of God is magnified most, <label type="milestone">
+                     <seg type="milestoneunit">Argument. </seg>
+                  </label> there is most holinesse; but the name of God is mag<g ref="char:EOLhyphen"/>nified more in that high and honourable As<g ref="char:EOLhyphen"/>sembly of Parliament (by the Providence of God, and the care of our gracious King) now assembled then it was before by our Lordly Bishops and Prelates in their Sy<g ref="char:EOLhyphen"/>nods, Courts, and Convocation; therefore it must needs ap<g ref="char:EOLhyphen"/>peare,
+<pb facs="tcp:156891:3"/>that the high and honourable Assembly of Parliament are a more holy Assembly,<note place="margin">Conclusion.</note> then our Bishops and Prelate were in their Synods.</p>
+               <p n="1">1. To prove, that where the Name God of is most magnified, there is most holinesse: God himselfe expresseth to <hi>Salomon</hi> when he appeared to him, saying, I have heard thy prayer and thy suppllication, that thou hast made before me, I have hal<g ref="char:EOLhyphen"/>lowed this house (which thou hast built) to put my name there for ever, and mine eyes and my heart shall be there perpetually 1 <hi>Kings</hi> 9. And Christ saith in his prayer to his Father, I have (saith he) manifested thy name unto the men which thou gavest me out of the world, <hi>John</hi> 17.6.</p>
+               <p n="2">2. To prove that the name of God is manifested more in that high and honourable assembly of Parliament, then it was before by the Lordly Bishops and Prelates. Which shall bee done by seven queries necessary to be taken notice of for the magnifying of the name of God in any assembly, Court, or Councell.</p>
+               <p n="1">I. To see whether they be lawfully called to it, yea or no.</p>
+               <p>The Lordly Bishops, they have not their calling from God, therefore Christ reproves them saying, bee not called <hi>Rabbi,</hi> for one is your Doctor (to wit, Christ) and all yee are bre<g ref="char:EOLhyphen"/>thren, <hi>Matth.</hi> 23.8. they ought not to be Lords over Gods heritage, but examples of meeknesse.</p>
+               <p>They have their calling from the Pope,<note place="margin">Of S. Paul</note> as the Cardinalls of some Cathedralls have, by which name (as I have heard to this day) they receive their pay.</p>
+               <p>The Pope hee hath his calling from the Devill, <hi>Revel.</hi> 17. wherefore say our Lordly Bishops then, that they are Lords, and will not come to God, but take their calling from the Pope, who is a rebell against God, <hi>Jer.</hi> 2.29. <hi>&amp;</hi> 3. neither have they called Assemblies to sit with them in their Courts, except onely such as will uphold them in their unjust proceedings.</p>
+               <p>
+                  <hi>Object.</hi> Is a Bishop then not a lawfull calling?</p>
+               <p>
+                  <hi>Answ.</hi> So farre as S. <hi>Jerome</hi> expresseth the office of a Bishop, it is lawfull and warrantable,<note place="margin">In Levit. di<g ref="char:EOLhyphen"/>stinct. <hi>36.</hi>
+                  </note> if they follow <hi>Moses</hi> and <hi>Aaron,</hi> that is not to depart from the Tabernacle of the Lord, in pray<g ref="char:EOLhyphen"/>ing, preaching, and reading the Scriptures, and not in Lordly predominacie.</p>
+               <p n="2">
+                  <pb facs="tcp:156891:3"/> II. Whether the Word of God be their guide, yea, or no.</p>
+               <p>The Prelates have not taken the Word of God for their guide, but the traditions of men and the divices of their own braine, and the corrupt customes of their owne Courts,<note place="margin">In the <hi>8.</hi> di<g ref="char:EOLhyphen"/>stinct Canon qui contemp<g ref="char:EOLhyphen"/>ta.</note> which Christ reproveth, <hi>Mark.</hi> 7.8. And Saint <hi>Austin</hi> saith, he that despiseth the truth, and presumeth to follow custome, either hee is envious to his brethren, and froward and injurious to those to whom the truth is revealed, or else he is unkind to<g ref="char:EOLhyphen"/>wards God, by whose inspiration the Congregation and Church is instructed.</p>
+               <p>
+                  <hi>Object.</hi> The Bishops doe not deny the Word of God, onely they would have those Ceremonies and customes of decencie (which have been a long time used in the Church) still to con<g ref="char:EOLhyphen"/>tinue.</p>
+               <p>
+                  <hi>Answ.</hi>
+                  <note place="margin">To W. Aver<g ref="char:EOLhyphen"/>sane B.</note> To plead for custome (as saith Saint <hi>Gregory</hi>) let them take heed, for the Lord saith, I am the way, the truth and the life, he saith not, I am the custome, but I am the truth. In processe of time an ungodly custome groweth strong, and is kept for a law, and graven Images are worshipped by com<g ref="char:EOLhyphen"/>mand, <hi>Wisd.</hi> 14.15.</p>
+               <p n="3">III. Whether they lay aside all sanster respect.</p>
+               <p>The Prelates have combined together for themselves, and contrived for their owne sinister ends and usurpation, though to the great dispersion of divisions both in Church and State, moving of warre, and afflicting of the people of God, not re<g ref="char:EOLhyphen"/>specting any thing more then there owne glory and sinister respects: Such the Lord complaines of (saying) Yee, who turne judgement into Wormewood, and leave off righteous<g ref="char:EOLhyphen"/>nesse, I know your mighty sins, and how you afflict the just, and take bribes, &amp; turn aside the poor, <hi>Amos</hi> 5. Yet by these means our Lordly Bishops and Prelates laboured to raise themselves to honour, of whom Saint <hi>Gregory</hi> saith (boldy,)<note place="margin">In his Anno<g ref="char:EOLhyphen"/>tations on Matth. <hi>23.</hi>
+                  </note> that who<g ref="char:EOLhyphen"/>soever calleth himselfe an universall Priest, or desireth to bee called a Lordly Priest (in the pride of his heart) he is the fore<g ref="char:EOLhyphen"/>runner of Antichrist.</p>
+               <p>
+                  <hi>Object.</hi> The Bishops have not onely sought after their own sinister respects, but they have also laboured to bring the Church to a setled order of discipline also.</p>
+               <p>
+                  <hi>Answ.</hi> But they have not gone about to settle the Church
+<pb facs="tcp:156891:4"/>in true order and discipline, according to Gods holy Word, but in such a way as they thought best to conferre that ho<g ref="char:EOLhyphen"/>nour upon them (and those by respects) at which they aimed. But who can abide,<note place="margin">In his <hi>4.</hi> Book and <hi>38.</hi> Epist.</note> sath <hi>Erasmus,</hi> that the Bishops should occupy an open tyranny against Christs Doctrine, and make Lawes for their owne advantage, measuring all things accor<g ref="char:EOLhyphen"/>ding to their gaine and glorious Majesties; they that ensnare the people with rites and ordinances devised for their owne profit, and thus fulfill their tyranny, doe not fit in the chaire of the Gospel, but in the chaire of <hi>Simon Magus</hi> and <hi>Caiphas.</hi>
+               </p>
+               <p n="4">IV. Whether they labour for the flourishing of the Gospel of Jesus Christ.</p>
+               <p>The Prelates have laboured in the suppressing of the Gos<g ref="char:EOLhyphen"/>pel, and silencing of the faithfull Preachers thereof and have scattered the flocke, and driven them away: But behold, saith the Lord,<note place="margin">In his <hi>42.</hi> Serm. to the Brethren in the Wilder<g ref="char:EOLhyphen"/>nesse.</note> I will visit unto you the evill of your doings, <hi>Ier.</hi> 23.2. And Saint <hi>Austin</hi> saith, Take heed (saith hee, oh yee Pa<g ref="char:EOLhyphen"/>stors) lest the Lord say unto you, I have made you stewards over my houshold, and yee have given them no bread; thou that dost so, saith hee, art not a gatherer together, but a scat<g ref="char:EOLhyphen"/>terer; thou art not a watch-man, but a hang-man, take him Jaylor, &amp;c.</p>
+               <p>
+                  <hi>Object.</hi> Those whom the Bishops have silenced and puni<g ref="char:EOLhyphen"/>shed, are such as have gone about to bring in some new Here<g ref="char:EOLhyphen"/>sies, which the Church of <hi>England</hi> hath not allowed of.</p>
+               <p>
+                  <hi>Answ.</hi> I say with <hi>Tertullian,</hi> let them take heed unto whom the thing seemeth new,<note place="margin">In his Book of Virgins.</note> that in it selfe is old, it is not so much the novelty of the matter as the truth, that proveth what is Heresie; whatsoever savoureth against the truth, that is an He<g ref="char:EOLhyphen"/>resie, be the custome thereof never so old.</p>
+               <p n="5">V. Whether they set up and exalt the Kings Highnesse.</p>
+               <p>The Prelates have gone about to exalt themselves, and to make themselves great and mighty, that so like cruell tyrants they might raigne over the Land; nay, were they not ambi<g ref="char:EOLhyphen"/>tious of the Popes usurpation, like him to sit above the King, but (if they were) blessed be God) they are prevented. Let them now learne of <hi>Davids</hi> Priest and Levites, to carry them<g ref="char:EOLhyphen"/>selves towards our <hi>David</hi> (whom God preserve unto us in
+<pb facs="tcp:156891:4"/>honour and length of dayes) not to decline from the Lawes of God and from the commandement of the King touching all things, 2 <hi>Chron.</hi> 8. And Saint <hi>Chrysostome</hi> saith, wee went in, saith hee,<note place="margin">In his Epist. to Innocen<g ref="char:EOLhyphen"/>tius.</note> and humbly besought the most Christian Prince to call a counsell, but our Prelates would over-turne (if they could) both Counsell and Parliament, and desire no Court but of their owne choice: No, they had rather that our Roy<g ref="char:EOLhyphen"/>all King should hazard his Crowne, and the whole King<g ref="char:EOLhyphen"/>dome ruinating, then themselves be ruled in the Courts of Justice.</p>
+               <p>
+                  <hi>Object.</hi> But the Bishops should call an assembly concer<g ref="char:EOLhyphen"/>ning matters of Religion, because they are the Governours of the Church.</p>
+               <p>
+                  <hi>Answer.</hi> Herein would appeare their Lordly usurpation, so to object to be trayterous, thus to cast off the Kings Go<g ref="char:EOLhyphen"/>vernment. This usurpation in the raigne of King <hi>Henry</hi> the second, caused him to call a Parliament,<note place="margin">Tho. Becket.</note> where he reformed many abuses in the Clergie, although the Arch-bishop of <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> like a perjured Papisticall traytor, resisted him.</p>
+               <p n="6">VI. Whether they labour for settlement of peace.</p>
+               <p>The Prelates have much erred herein, and that not onely in their owne Courts to desturbe the Church, but have also much troubled the State, of which Saint <hi>Paul</hi> warneth <hi>Timothy</hi> to beware, 2 <hi>Tim.</hi> 2. But let such Prelates, (for all their fury and rage) remember that saying of <hi>Pompeius,</hi> it is adulterous, it is wicked (saith hee) thus to be ruled by their rashnesse, to the disorder of the Church of God.</p>
+               <p>
+                  <hi>Object.</hi> The Bishops doe not desire warre and troubles, their intent was to settle the Church to a conformity in peace, if they could have done it.</p>
+               <p>
+                  <hi>Answ.</hi> There can be no true peace to goe about to bring in Idolatry and superstition amongst the people of God. To this purpose saith <hi>Constantine,</hi> I have judged, saith hee, that this ought before all other things to be the end and endeavour and that to this I addresse my power and authority in go<g ref="char:EOLhyphen"/>vernment, that the unity of Faith, pure love, and agreement of religion towards Almighty God might be kept and main<g ref="char:EOLhyphen"/>tained amongst all the congregations of the Church.</p>
+               <p n="7">VII. Whether it be done in truth and sincerity.</p>
+               <pb facs="tcp:156891:5"/>
+               <p> Not as our Prelates, to worship God in dumbe shewes, and superstitious Ceremonies, but to worship him in spirit and in truth, <hi>Iohn</hi> 4.24. <hi>Epephanius</hi> saith, My deare children, saith he,<note place="margin">In his <hi>3.</hi> book of Heresies.</note> be ye mindfull that yee bring no Images into the Churches, but evermore carry God in your hearts; nay, suffer not such Images, no not in your houses, for it is not lawfull to leade a Christian man by his eyes, but rather by the study and exer<g ref="char:EOLhyphen"/>cise of his mind.</p>
+               <p>
+                  <hi>Object.</hi> There is many good actions which the Bishops have done freely for the good of others in reliefe of the poore, &amp;c.</p>
+               <p>
+                  <hi>Answ.</hi>
+                  <note place="margin">In a Sermon of his prea<g ref="char:EOLhyphen"/>ched before yong men.</note> Wee must make use of that goodnesse which wee can finde in them, as <hi>Basilius Magnus</hi> teacheth us by the compa<g ref="char:EOLhyphen"/>rison of Bees; When they (saith he) flye to the flowers, they doe not crop them, and carry them quite away, but sucking so much as shall suffice for their Honey making, take their leaves of the rest: Even so let us take from them so much as is sound and agreeable to truth, and commend it, and forsake the rest.</p>
+               <p n="1">I. But that happy assembly in the High Court of Parlia<g ref="char:EOLhyphen"/>ment, are such as are lawfully and warrantably assembled by the prayers of the whole Church, and having favour of all Gods people, praising God for the same, according to the cu<g ref="char:EOLhyphen"/>stome of the Church in the Apostles time, <hi>Act.</hi> 46. and 47.</p>
+               <p n="2">II. The honourable and worthy Assembly of Parliament, oh how clearely doth it appeare unto us, that all their con<g ref="char:EOLhyphen"/>sultations, and all their proceedings are grounded upon Gods Word. And as <hi>Hezekiah</hi> in the first yeare of his raigne, and in the first month opened the doores of the house of the Lord, and repaired them, and caused the filthinesse to be carried out of the holy place, as it is in 2 <hi>Chron.</hi> 29.3. and 5. even so have that honourable Assembly of the Parliament, ever since their first meeting, opened the mouthes of the Ministers that were stopt, and those who before feared a catch-pole to trap them for preaching <hi>Christ</hi> sincerely, now speake boldly in the cause of God; and blessed be God they goe on still, continuing the the repairing of the House of God, and purging of the Church from idolatry, popery, superstition, and all filthinesse.</p>
+               <p n="3">III. That holy Assembly of Parliament, who amongst us is so ignorant but may perceive that not any sinister end, or by-respect do they aime at, but for the magnifying of the name
+<pb facs="tcp:156891:5"/>of God, the propagation of the Gospel, the purity of Reli<g ref="char:EOLhyphen"/>gion, and the just punishment of wickednesse and vice: Is there any scandalous person in the Realme that can accuse them of unrighteous judgement, by bribes or sinister respect: No, had I a thousand lives I durst lay them to stake for them in this behalfe: Doe wee not see how ready they are to spend their meanes, yea their lives even to their last breath, to forsake their owne private profits and pleasures, and all for the set<g ref="char:EOLhyphen"/>ting up of the glory of God, the honour of the King, and the good of the Kingdome, being followers of God, as deare children, <hi>Ephes.</hi> 5.1.</p>
+               <p n="4">IV. They that feared the Lord spake often one to another, and the Lord harkned, and heard it, <hi>Mal.</hi> 3.16. And blessed be God now we have a gracious King, and an holy Assembly of Parliament, true Israelites indeed, in whom there is no guile, who to their utmost strength and power labour for the flourishing of the Gospel of our Lord and Saviour Jesus Christ, who labour that the Churches may bee served with preaching Ministers, and that the peoples soules may not bee starved, as they have beene, but that the Ministers may doe it as of the ability which God giveth, that God in all things may be glorified, 1 <hi>Pet.</hi> 4.11.</p>
+               <p n="5">V. The honourable Assembly of Parliament, are right Parliament proofe indeed, who give unto <hi>Caesar</hi> those things which are <hi>Caesars,</hi> and unto God those things which are Gods, as <hi>Christ</hi> commands, <hi>Matth.</hi> 22.21. Yea, and will give the Prelates that which they finde them worthy of, and see justice excuted through the whole Land, that the King may rule in peace, and the people live in comfort.</p>
+               <p n="6">VI. Blessed be the Lord who hath reduced us to peace, and put it into the Kings heart in calling of the happy assembly of Parliament; Oh Lord we cannot chuse but much admire and praise thy Mercy, to see how thou hast established our peace, since their fitting, to the joy both of King and State; oh how sweet a nap doth the Church now begin to sleepe in the armes of her Savior, so that we may now say Christ hath brought us to the Banqueting house, &amp; his baner over us is love, <hi>Cant.</hi> 2.4.</p>
+               <p n="7">VII. Oh what truth, what sincerity doth plainly appeareto dwell amongst that holy assembly of Parliament who with<g ref="char:EOLhyphen"/>out all doubt are filled with the Holy Ghost, who have pro<g ref="char:EOLhyphen"/>fessed a good profession before many witnesse, 1 <hi>Tim.</hi> 6.12.
+<pb facs="tcp:156891:6"/>They spare not the mighty for their wealth, nor oppresse the poore for their poverty, they lay the just censure upon the of<g ref="char:EOLhyphen"/>fenders, and set free the innocent, guiltlesse persons.</p>
+               <p>Let us but a little meditate upon Gods mercies towards this Kingdome since the Parliament began in those great things that he hath done for us, and it will make us stand amazed at our happy sudden change? how hath the Lord asswaged the Plague, stopped warres, which we feared on every side, caused divisions to cease amongst us: This holy Assembly findes out the golden wedges, they cast out the accursed things, God is worshipped, our gracious King is established in his Throne in peace, and all the whole Land is comforted, who wish the pro<g ref="char:EOLhyphen"/>sperity of King and Kingdome.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:156891:6"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
